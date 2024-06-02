@@ -1,6 +1,6 @@
 # Galaxy-Star-Quasar_Classification
 
-Bu notebook'ta Akbank Makine Öğrenmesi Bootcamp'i için yapmış olduğum proje olan Yıldız, Galaksi, Kuasar Sınıflaması bulunmaktadır.
+Bu notebook'ta Yıldız, Galaksi, Kuasar Sınıflaması bulunmaktadır.
 
 Veriler Kaggle'dan alınmıştır. Veri seti toplam 100.000 satırdan ve 18 sütundan oluşmaktadır. Boş satır bulunmamaktadır fakat çalışmanın gerekçeleri doğrutlusunda sütun sayısında azaltma yapılmıştır ve sütun sayısı 12'ye düşmüştür.
 
